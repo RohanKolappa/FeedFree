@@ -2,8 +2,7 @@
 //  LoginViewController.swift
 //  FeedFree1
 //
-//  Created by Dinesh Kumar on 6/23/19.
-//  Copyright © 2019 ThinkSoft Systems. All rights reserved.
+//  Created by Rohan Kolappa on 6/23/19.
 //
 
 import UIKit
